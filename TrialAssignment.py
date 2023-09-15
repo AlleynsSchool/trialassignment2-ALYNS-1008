@@ -4,6 +4,6 @@ def trialQuestion():
     Leave the return statement as it is
     """
 
-    answer = "Wrong answer" #change this line as per the instructions
+    answer = "Test assignment answer" #change this line as per the instructions
 
     return answer
